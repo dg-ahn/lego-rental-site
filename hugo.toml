@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://dg-ahn.github.io/lego-rental-site/"
 languageCode = "ko-kr"
 title = "블럭팡 수원라퍼스트점"
 theme = "ananke"
