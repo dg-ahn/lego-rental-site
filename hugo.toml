@@ -1,0 +1,4 @@
+baseURL = "https://example.org/"
+languageCode = "ko-kr"
+title = "블럭팡 수원라퍼스트점"
+theme = "ananke"

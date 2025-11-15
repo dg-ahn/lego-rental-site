@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 블럭팡 수원라퍼스트점</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on 블럭팡 수원라퍼스트점</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 15 Nov 2025 22:53:28 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pricing</title>
+      <link>http://localhost:1313/pages/pricing/</link>
+      <pubDate>Sat, 15 Nov 2025 22:53:28 +0900</pubDate>
+      <guid>http://localhost:1313/pages/pricing/</guid>
+      <description>&lt;h2 id=&#34;이용-요금&#34;&gt;이용 요금&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;구분&lt;/th&gt;&#xA;          &lt;th&gt;시간/기간&lt;/th&gt;&#xA;          &lt;th&gt;이용료&lt;/th&gt;&#xA;          &lt;th&gt;비고&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;매장 이용&lt;/td&gt;&#xA;          &lt;td&gt;2시간&lt;/td&gt;&#xA;          &lt;td&gt;12,000원&lt;/td&gt;&#xA;          &lt;td&gt;음료 1잔 포함&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;가정 대여&lt;/td&gt;&#xA;          &lt;td&gt;7일&lt;/td&gt;&#xA;          &lt;td&gt;18,000원&lt;/td&gt;&#xA;          &lt;td&gt;1세트 기준&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;이용-규칙&#34;&gt;이용 규칙&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;분실 시 부품당 ㅇㅇ원 청구&lt;/li&gt;&#xA;&lt;li&gt;파손 정도에 따라 비용이 청구될 수 있습니다.&lt;/li&gt;&#xA;&lt;li&gt;이용 전/후 직원과 함께 부품 체크를 진행합니다.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
